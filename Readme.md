@@ -37,4 +37,4 @@ __You are encouraged to collaborate with your peers.__ However, you are also res
   ```for raw_row in raw_rows[1:]:```
   * In the third code cell, a list is extended by another list. What does that mean and how is that different from appending list items to the list? How could we do the same thing using `append()`?
   * When might the calculation
-  ```w2h_ratio = row[1]/row[2] give inaccurate results?
+  ```w2h_ratio = row[1]/row[2]``` give inaccurate results?
